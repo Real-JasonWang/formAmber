@@ -1,5 +1,7 @@
 ## 合成Amber - Weifeng Wang MOD
 
+在线玩：[https://real-jasonwang.github.io/formAmber/](https://real-jasonwang.github.io/formAmber/))
+
 ```
 无言暗想微微
 叹息影而今添鬓丝
