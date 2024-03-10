@@ -1,5 +1,6 @@
 ## 合成Amber - Weifeng Wang MOD
 [![Knight of Amber](https://img.shields.io/static/v1?label=beTheKnightOf&message=Amber&color=F8BBD0)](https://github.com/Real-JasonWang/beTheKnightOf_Amber)
+![License:  ELAL](https://img.shields.io/badge/license-Epic%20Love%20for%20Amber-orange)
 ```
 无言暗想微微
 叹息影而今添鬓丝
